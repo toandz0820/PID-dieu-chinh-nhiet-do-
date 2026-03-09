@@ -1,3 +1,4 @@
+// hello anh em 
 // --- KHAI BÁO BIẾN ---
 double Setpoint = 50.0;  // Mục tiêu vẫn là 50 độ
 double Input = 25.0;     // Nhiệt độ hiện tại của vật
